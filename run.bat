@@ -1,0 +1,1 @@
+C:\Python64\User\python.exe D:/LS/pyServer/manage.py runserver 0.0.0.0:80
